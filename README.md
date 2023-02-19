@@ -3,7 +3,7 @@
 ### Course: JavaScript Fundamentals
 
 **Exercises**
-- [ ] Hello, World!
+- [x] Hello, World!
 - [ ] Statements
 - [ ] Arithmetic Operations
 - [ ] Formatting Errors (Syntax and Linter)
