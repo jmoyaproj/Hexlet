@@ -5,7 +5,7 @@
 **Exercises**
 - [x] Hello, World!
 - [x] Statements
-- [ ] Arithmetic Operations
+- [x] Arithmetic Operations
 - [ ] Formatting Errors (Syntax and Linter)
 - [ ] Strings
 - [ ] Variables
