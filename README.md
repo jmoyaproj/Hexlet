@@ -4,7 +4,7 @@
 
 **Exercises**
 - [x] Hello, World!
-- [ ] Statements
+- [x] Statements
 - [ ] Arithmetic Operations
 - [ ] Formatting Errors (Syntax and Linter)
 - [ ] Strings
