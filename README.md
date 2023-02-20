@@ -7,7 +7,7 @@
 - [x] Statements
 - [x] Arithmetic Operations
 - [x] Strings
-- [ ] Variables
+- [x] Variables
 - [ ] Defining with Expressions
 - [ ] Naming
 - [ ] Interpolation
