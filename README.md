@@ -6,7 +6,7 @@
 - [x] Hello, World!
 - [x] Statements
 - [x] Arithmetic Operations
-- [ ] Strings
+- [x] Strings
 - [ ] Variables
 - [ ] Defining with Expressions
 - [ ] Naming
