@@ -6,7 +6,6 @@
 - [x] Hello, World!
 - [x] Statements
 - [x] Arithmetic Operations
-- [ ] Formatting Errors (Syntax and Linter)
 - [ ] Strings
 - [ ] Variables
 - [ ] Defining with Expressions
