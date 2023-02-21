@@ -9,7 +9,7 @@
 - [x] Strings
 - [x] Variables
 - [x] Defining with Expressions
-- [ ] Naming
+- [x] Naming
 - [ ] Interpolation
 - [ ] Getting Characters from a String
 - [ ] Data Types
