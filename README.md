@@ -8,7 +8,7 @@
 - [x] Arithmetic Operations
 - [x] Strings
 - [x] Variables
-- [ ] Defining with Expressions
+- [x] Defining with Expressions
 - [ ] Naming
 - [ ] Interpolation
 - [ ] Getting Characters from a String
