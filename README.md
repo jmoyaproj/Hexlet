@@ -10,7 +10,7 @@
 - [x] Variables
 - [x] Defining with Expressions
 - [x] Naming
-- [ ] Interpolation
+- [x] Interpolation
 - [ ] Getting Characters from a String
 - [ ] Data Types
 - [ ] Immutability and Primitive Data Types
