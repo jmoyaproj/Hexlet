@@ -11,7 +11,7 @@
 - [x] Defining with Expressions
 - [x] Naming
 - [x] Interpolation
-- [ ] Getting Characters from a String
+- [x] Getting Characters from a String
 - [ ] Data Types
 - [ ] Immutability and Primitive Data Types
 - [ ] Functions and Calls
