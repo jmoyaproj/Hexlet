@@ -12,7 +12,7 @@
 - [x] Naming
 - [x] Interpolation
 - [x] Getting Characters from a String
-- [ ] Data Types
+- [x] Data Types
 - [ ] Immutability and Primitive Data Types
 - [ ] Functions and Calls
 - [ ] Function Signature
